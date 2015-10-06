@@ -1,0 +1,8 @@
+*.txt
+*.png
+*.o
+SSE
+AVX
+baseline
+FMA
+*.gp
